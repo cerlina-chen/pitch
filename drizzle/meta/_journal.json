@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790443962374,
+      "tag": "0000_lying_stature",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790446462361,
+      "tag": "0001_lonely_nocturne",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790449175371,
+      "tag": "0002_large_liz_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790450883217,
+      "tag": "0003_previous_ezekiel",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790461661023,
+      "tag": "0004_spectator_permissions",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1790462343821,
+      "tag": "0005_peer_practice",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1790464169962,
+      "tag": "0006_chat_avatars_topics",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1790466184143,
+      "tag": "0007_magical_red_wolf",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1790478136952,
+      "tag": "0008_amazing_warpath",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1790525615466,
+      "tag": "0009_lean_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1790526684742,
+      "tag": "0010_huge_zarek",
+      "breakpoints": true
+    }
+  ]
+}
