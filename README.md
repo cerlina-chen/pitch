@@ -4,13 +4,13 @@ Live practice for the conversations that matter: interviews, pitches, negotiatio
 
 ## Status
 
-The backend is complete and tested. The frontend is being rebuilt from scratch in `frontend/`.
+The backend is complete and tested. The new tabletop frontend is in `frontend/`; see [docs/frontend.md](docs/frontend.md) for what is wired and what is still a demo.
 
 | Part | State |
 |---|---|
 | API, matchmaking, rounds, judging, Elo | Working, 47 automated tests |
 | Database (D1 or Turso via Drizzle) | Working, 11 migrations |
-| Web frontend | Rebuild in progress |
+| Web frontend | Tabletop UI in progress, see [frontend notes](docs/frontend.md) |
 
 ## Run the backend locally
 
